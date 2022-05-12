@@ -1,5 +1,5 @@
 TEST?=$$(go list ./... | grep -v 'vendor')
-NAMESPACE=monitoring
+NAMESPACE=eneba-games
 NAME=sloth-sli
 BINARY=terraform-provider-${NAME}
 VERSION=0.1.0
