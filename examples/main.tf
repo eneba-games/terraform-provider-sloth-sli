@@ -2,7 +2,7 @@ terraform {
   required_providers {
     sli = {
       source  = "eneba-games/sloth-sli"
-      version = "~> 0.0.1"
+      version = "~> 0.1.0"
     }
   }
 }
